@@ -3,9 +3,14 @@ body{
   color: #dddddd;
   font-family: Arial, Helvetica, sans-serif;
 }
-
+img{
+  float: left
+}
+img{
+  border-radius: 50%
+}
 .title{
-  text-align: center;
+  text-align: right;
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
