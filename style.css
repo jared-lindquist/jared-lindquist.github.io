@@ -4,11 +4,12 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 img{
-  float: left
+  float: right
 }
 img{
   border-radius: 50%
 }
+img{margin: 20px}
 .title{
   text-align: right;
   text-transform: uppercase;
