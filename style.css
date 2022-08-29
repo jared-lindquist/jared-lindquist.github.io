@@ -12,7 +12,7 @@ img{
 img{margin: 20px}
 
 .title{
-  text-align: right;
+  text-align: left;
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
@@ -20,7 +20,7 @@ img{margin: 20px}
 }
 
 .exp-header {
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
@@ -41,5 +41,15 @@ img{margin: 20px}
 
 .list2{
   text-align: left;
+  background-color: rgba(0,0,0,0)
+}
+
+.list3{
+  text-align: left;
+  background-color: rgba(0,0,0, 0.1)
+}
+
+.exp-header2{
+  text-align: center;
   background-color: rgba(0,0,0,0)
 }
