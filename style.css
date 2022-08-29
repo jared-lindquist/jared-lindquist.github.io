@@ -16,7 +16,7 @@ img{margin: 20px}
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: rgba(0,0,0,0)
 }
 
 .exp-header {
@@ -24,33 +24,22 @@ img{margin: 20px}
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: rgba(0,0,0,0)
 }
 
 .exp-body {
   text-align: left;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: rgba(0,0,0,0)
 }
 
 .list1{
   text-align: left;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: rgba(0,0,0,0)
 }
 
 .list2{
   text-align: left;
-  background-color: rgba(0,0,0, 0.1)
-}
-
-.list3{
-  text-align: left;
-  background-color: rgba(0,0,0, 0.1)
-}
-
-.exp-header2{
-  text-align: left;
-  border-top: 2px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: rgba(0,0,0,0)
 }
